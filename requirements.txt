@@ -1,1 +1,2 @@
 SpeechRecognition==3.10.0
+clarifai_grpc
