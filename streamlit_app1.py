@@ -3,7 +3,7 @@ import speech_recognition as sr
 from clarifai_grpc.channel.clarifai_channel import ClarifaiChannel
 from clarifai_grpc.grpc.api import resources_pb2, service_pb2, service_pb2_grpc
 from clarifai_grpc.grpc.api.status import status_code_pb2
-import pyaudio
+
 # from elevenlabs import generate
 
 PAT = '5881bd40da7a40c08e8d3c0faa1c4aee'
