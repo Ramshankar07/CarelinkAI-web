@@ -3,7 +3,7 @@
 
 CareLinkAI - Web is a web application that leverages the power of various technologies, including ClarifAI, Streamlit, LLAMA2, Speech Recognition module, and Eleven Labs. Written in Python 3.x, this project is designed to enhance customer-agent interactions by enabling customized and tailored conversations through sentiment analysis.
 
-This project was started on behalf of the ClarifAI Hackathon by [lablab.ai]([https://lablab.ai/](https://lablab.ai/event/llama-2-hackathon-with-clarifai/carelink-ai-team/carelink-ai-telecom-operation-and-customer-support]).
+This project was started on behalf of the ClarifAI Hackathon by [lablab.ai](https://lablab.ai/](https://lablab.ai/event/llama-2-hackathon-with-clarifai/carelink-ai-team/carelink-ai-telecom-operation-and-customer-support).
 
 ## 👥 Team
 **Leader :** Vinoth Kumar Murugan
